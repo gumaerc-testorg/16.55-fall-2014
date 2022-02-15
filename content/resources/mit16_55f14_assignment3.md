@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Assignment 3.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-55-ionized-gases-fall-2014/b45c2af3ac47d64cbba0ee9ddcfc35d2_MIT16_55F14_Assignment3.pdf
+file: /media/courses/16-55-ionized-gases-fall-2014/b45c2af3ac47d64cbba0ee9ddcfc35d2_MIT16_55F14_Assignment3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 16.55 Fall 2014 Assignment 3
 uid: b45c2af3-ac47-d64c-bba0-ee9ddcfc35d2

@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 45afe4dd-1028-b370-38f8-fe50e0356c4b
 ---
@@ -39,20 +41,6 @@ Curriculum Information
 ### Offered
 
 Every other fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![This photo shows the room the lectures were given in with rows of tables and moveable chairs for a maximum of 20 students.  There is an overhead and manual slide projector, a large chalkboard at the front and a window to the students’ right.]({{< resource_file 31b0356d-94a1-96c7-bdbb-0b0d2618b433 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Lectures were presented in a room outfitted with an overhead projector, a manual slide projector, and a large chalkboard at the front of the room. There were 4 rows of tables each with 5 moveable chairs seating a maximum of 20 students.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
