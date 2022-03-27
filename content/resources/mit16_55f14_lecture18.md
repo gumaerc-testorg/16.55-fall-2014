@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2bfbd890-64f8-23e6-b295-ecde160ce342
 resourcetype: Document
 title: '16.55 Fall 2014 Lecture 18 Notes: Electrostatic Probes'
 uid: 65f6341f-a5cc-62bb-2755-793cbdf4ba4b

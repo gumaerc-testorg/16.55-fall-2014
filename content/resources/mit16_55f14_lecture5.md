@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2bfbd890-64f8-23e6-b295-ecde160ce342
 resourcetype: Document
 title: '16.55 Fall 2014 Lecture 5 Notes: Adiabatic Invariants'
 uid: 9872bcad-3efb-68d8-a094-4280a84b9676

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2bfbd890-64f8-23e6-b295-ecde160ce342
 resourcetype: Document
 title: '16.55 Fall 2014 Lecture 23 Notes: Atoms and Molecules'
 uid: 858b385e-4788-42f2-5153-905cc9485812

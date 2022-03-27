@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2bfbd890-64f8-23e6-b295-ecde160ce342
 resourcetype: Document
 title: '16.55 Fall 2014 Lecture 17 Notes: Structure of the Plasma Sheath'
 uid: 69c9b98e-c349-6da0-71f8-cdd7a1486ff7

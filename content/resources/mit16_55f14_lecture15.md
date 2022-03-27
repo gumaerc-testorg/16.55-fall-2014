@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2bfbd890-64f8-23e6-b295-ecde160ce342
 resourcetype: Document
 title: '16.55 Fall 2014 Lecture 15 Notes: Maxwellian Collisions'
 uid: 9de9312f-026c-f86b-c449-a657cf5cb0d1

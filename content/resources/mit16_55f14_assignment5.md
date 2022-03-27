@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: decf8e96-9870-4a57-44f9-3ef9ff09496f
 resourcetype: Document
 title: 16.55 Fall 2014 Assignment 5
 uid: 433e1eb4-0f4b-bd6c-b111-8c32ddfecb70

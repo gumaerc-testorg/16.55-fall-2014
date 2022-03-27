@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2bfbd890-64f8-23e6-b295-ecde160ce342
 resourcetype: Document
 title: '16.55 Fall 2014 Lecture 13-14 Notes: Moments of the Boltzmann Equation'
 uid: 36135fe3-ae72-0921-f05d-f1a46fb5011c
