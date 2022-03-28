@@ -3,6 +3,7 @@ content_type: page
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
+parent_uid: null
 title: Instructor Insights
 uid: 45afe4dd-1028-b370-38f8-fe50e0356c4b
 ---
@@ -32,7 +33,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_8.03 Physics III_](/courses/8-03-physics-iii-spring-2003/)
+[_8.03 Physics III_](/courses/8-03-physics-iii-spring-2003)
 
 ### Requirements Satisfied
 
