@@ -6,6 +6,7 @@ file: /courses/16-55-ionized-gases-fall-2014/b7c22c3d68ab558bcc3a59867b710e1a_MI
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '16.55 Fall 2014 Lecture 8 Notes: Kinetic Theory'
 uid: b7c22c3d-68ab-558b-cc3a-59867b710e1a
 ---
 This resource contains the information regarding kinetic theory. Vlasov and Boltzmann equations. Collisional terms.
-

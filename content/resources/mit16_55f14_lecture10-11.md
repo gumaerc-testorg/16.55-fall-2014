@@ -6,6 +6,7 @@ file: /courses/16-55-ionized-gases-fall-2014/989fbd4d29aeec148ff29d6e56419146_MI
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '16.55 Fall 2014 Lecture 10-11 Notes: The Equilibrium Distribution and it
 uid: 989fbd4d-29ae-ec14-8ff2-9d6e56419146
 ---
 This resource contains the information regarding the equilibrium distribution and its properties. Characteristic energies and velocities for a Maxwellian distribution.
-

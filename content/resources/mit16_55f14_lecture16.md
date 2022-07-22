@@ -6,6 +6,7 @@ file: /courses/16-55-ionized-gases-fall-2014/d8100af0e71e39e86560b9a8f544b3eb_MI
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '16.55 Fall 2014 Lecture 16 Notes: The Electron Energy Equation'
 uid: d8100af0-e71e-39e8-6560-b9a8f544b3eb
 ---
 This resource contains the information regarding the electron energy equation.
-

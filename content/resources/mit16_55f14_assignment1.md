@@ -5,6 +5,7 @@ file: /courses/16-55-ionized-gases-fall-2014/dbfae92a420cec669b1406af4866b449_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 16.55 Fall 2014 Assignment 1
 uid: dbfae92a-420c-ec66-9b14-06af4866b449
 ---
 This resource contains the information regarding Assignment 1.
-

@@ -5,6 +5,7 @@ file: /courses/16-55-ionized-gases-fall-2014/b45c2af3ac47d64cbba0ee9ddcfc35d2_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 16.55 Fall 2014 Assignment 3
 uid: b45c2af3-ac47-d64c-bba0-ee9ddcfc35d2
 ---
 This resource contains the information regarding Assignment 3.
-
