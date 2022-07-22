@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the homework assignment for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: decf8e96-9870-4a57-44f9-3ef9ff09496f
 ---
@@ -24,7 +28,7 @@ ASSIGNMENTS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Homework Assignment 1 (PDF)]({{< baseurl >}}/resources/mit16_55f14_assignment1)
+{{% resource_link dbfae92a-420c-ec66-9b14-06af4866b449 "Homework Assignment 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +37,7 @@ ASSIGNMENTS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Homework Assignment 2 (PDF)]({{< baseurl >}}/resources/mit16_55f14_assignment2)
+{{% resource_link 5b8fdf39-bb7c-bb2b-de7b-c3684054dd61 "Homework Assignment 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +46,7 @@ ASSIGNMENTS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Homework Assignment 3 (PDF)]({{< baseurl >}}/resources/mit16_55f14_assignment3)
+{{% resource_link b45c2af3-ac47-d64c-bba0-ee9ddcfc35d2 "Homework Assignment 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +55,7 @@ ASSIGNMENTS
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Homework Assignment 4 (PDF)]({{< baseurl >}}/resources/mit16_55f14_assignment4)
+{{% resource_link 2f9e8796-967b-4765-dab7-8aef959862a9 "Homework Assignment 4 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +64,7 @@ ASSIGNMENTS
 24
 {{< tdclose >}}
 {{< tdopen >}}
-[Homework Assignment 5 (PDF)]({{< baseurl >}}/resources/mit16_55f14_assignment5)
+{{% resource_link 433e1eb4-0f4b-bd6c-b111-8c32ddfecb70 "Homework Assignment 5 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
