@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding moments of the Boltzmann
   equation. Mass and momentum conservation. Kinetic energy equation.
 file: /courses/16-55-ionized-gases-fall-2014/36135fe3ae720921f05df1a46fb5011c_MIT16_55F14_Lecture13-14.pdf
+file_size: 144700
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding Motion of Charges in
   Uniform Fields.
 file: /courses/16-55-ionized-gases-fall-2014/5a4978b63c5462ae7c7233a631f5490f_MIT16_55F14_Lecture2.pdf
+file_size: 731864
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
