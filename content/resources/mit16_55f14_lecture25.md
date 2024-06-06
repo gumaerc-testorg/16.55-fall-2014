@@ -4,6 +4,7 @@ description: This resource contains the information regarding semi-thick plasma 
   Line radiation and broadening. Bound-free radiation. Bremsstrahlung. Escape for
   resonant radiation.
 file: /courses/16-55-ionized-gases-fall-2014/3d0c5f643cd1d062a2b41af733598d47_MIT16_55F14_Lecture25.pdf
+file_size: 243076
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

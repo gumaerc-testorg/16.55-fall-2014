@@ -4,6 +4,7 @@ description: 'This resource contains the information regarding plasma-wall inter
   Sheath and pre-sheath. Bohm condition. Random particle and kinetic energy flux across
   a plane.'
 file: /courses/16-55-ionized-gases-fall-2014/69c9b98ec3496da071f8cdd7a1486ff7_MIT16_55F14_Lecture17.pdf
+file_size: 143579
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

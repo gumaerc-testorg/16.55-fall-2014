@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding kinetic theory. Vlasov
   and Boltzmann equations. Collisional terms.
 file: /courses/16-55-ionized-gases-fall-2014/b7c22c3d68ab558bcc3a59867b710e1a_MIT16_55F14_Lecture8.pdf
+file_size: 189018
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
