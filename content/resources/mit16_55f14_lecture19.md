@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding probes in the orbital
   motion-limited (OML) regime.
-file: /courses/16-55-ionized-gases-fall-2014/f53c05597fb5cac840eaa8e88655d5c0_MIT16_55F14_Lecture19.pdf
+file: /ol-ocw-studio-app/courses/16-55-ionized-gases-fall-2014/f53c05597fb5cac840eaa8e88655d5c0_MIT16_55F14_Lecture19.pdf
 file_size: 196904
 file_type: application/pdf
 learning_resource_types:
