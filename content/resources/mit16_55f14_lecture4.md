@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Connection to Fluids.
-file: /courses/16-55-ionized-gases-fall-2014/cf082e13c674a139941a2d841f707f90_MIT16_55F14_Lecture4.pdf
+file: /ol-ocw-studio-app/courses/16-55-ionized-gases-fall-2014/cf082e13c674a139941a2d841f707f90_MIT16_55F14_Lecture4.pdf
 file_size: 133359
 file_type: application/pdf
 learning_resource_types:
