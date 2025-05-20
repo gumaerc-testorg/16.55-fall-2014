@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Maxwellian collisions.
   Ohm's law. Ambipolar diffusion.
-file: /ol-ocw-studio-app/courses/16-55-ionized-gases-fall-2014/9de9312f026cf86bc449a657cf5cb0d1_MIT16_55F14_Lecture15.pdf
+file: /courses/16-55-ionized-gases-fall-2014/9de9312f026cf86bc449a657cf5cb0d1_MIT16_55F14_Lecture15.pdf
 file_size: 212163
 file_type: application/pdf
 learning_resource_types:

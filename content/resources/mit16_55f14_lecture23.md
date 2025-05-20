@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the information regarding the electronic partition
   function for atoms and ions. The vibrational and rotational partition functions.
   Energy levels.
-file: /ol-ocw-studio-app/courses/16-55-ionized-gases-fall-2014/858b385e478842f25153905cc9485812_MIT16_55F14_Lecture23.pdf
+file: /courses/16-55-ionized-gases-fall-2014/858b385e478842f25153905cc9485812_MIT16_55F14_Lecture23.pdf
 file_size: 220265
 file_type: application/pdf
 learning_resource_types:

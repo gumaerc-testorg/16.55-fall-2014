@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the information regarding radiation transport
   in a gas. Equilibrium distribution. Transport equation. Collisional operator. Spectral
   lines. Line-reversal pyrometer.
-file: /ol-ocw-studio-app/courses/16-55-ionized-gases-fall-2014/407cff6b6ec7b488250fcdae76b26e0e_MIT16_55F14_Lecture24.pdf
+file: /courses/16-55-ionized-gases-fall-2014/407cff6b6ec7b488250fcdae76b26e0e_MIT16_55F14_Lecture24.pdf
 file_size: 138063
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Fundamentals of Plasma
   Physics.
-file: /ol-ocw-studio-app/courses/16-55-ionized-gases-fall-2014/a7f71927565607bcd2e0b31b51b162dd_MIT16_55F14_Lecture1.pdf
+file: /courses/16-55-ionized-gases-fall-2014/a7f71927565607bcd2e0b31b51b162dd_MIT16_55F14_Lecture1.pdf
 file_size: 192129
 file_type: application/pdf
 learning_resource_types:
