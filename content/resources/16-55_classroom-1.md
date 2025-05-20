@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/16-55-ionized-gases-fall-2014/31b0356d94a196c7bdbb0b0d2618b433_16-55_classroom-1.jpg
+file: /courses/16-55-ionized-gases-fall-2014/31b0356d94a196c7bdbb0b0d2618b433_16-55_classroom-1.jpg
 file_size: 51105
 file_type: image/jpeg
 image_metadata:
