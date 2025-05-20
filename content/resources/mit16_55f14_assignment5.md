@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Assignment 5.
-file: /ol-ocw-studio-app/courses/16-55-ionized-gases-fall-2014/433e1eb40f4bbd6cb1118c32ddfecb70_MIT16_55F14_Assignment5.pdf
+file: /courses/16-55-ionized-gases-fall-2014/433e1eb40f4bbd6cb1118c32ddfecb70_MIT16_55F14_Assignment5.pdf
 file_size: 358114
 file_type: application/pdf
 learning_resource_types:
