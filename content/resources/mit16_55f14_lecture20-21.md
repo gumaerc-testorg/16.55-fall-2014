@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the information regarding equilibrium statistical
   mechanics. Quantum statistics. Classical limit. Partition function. Multi-component
   systems. Translational partition function.
-file: /courses/16-55-ionized-gases-fall-2014/52d78ff09815620a5d7e41cdaf0539eb_MIT16_55F14_Lecture20-21.pdf
+file: /ol-ocw-studio-app/courses/16-55-ionized-gases-fall-2014/52d78ff09815620a5d7e41cdaf0539eb_MIT16_55F14_Lecture20-21.pdf
 file_size: 359331
 file_type: application/pdf
 learning_resource_types:
