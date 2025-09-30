@@ -35,7 +35,7 @@ This course prepares students for graduate study in the area of space propulsion
 
 ### Requirements Satisfied
 
-16.55 can be applied toward a graduate degree in [Space Propulsion Engineering (PDF)](http://mit.edu/aeroastro/academics/grad/spacepropulsion.pdf) or [Space Systems Engineering (PDF)](http://mit.edu/aeroastro/academics/grad/spacesystems.pdf) from the [Department of Aeronautics and Astronautics](http://aeroastro.mit.edu/).
+16.55 can be applied toward a graduate degree in {{% resource_link "09a94acc-ed26-496a-913a-bec9e9c8e3c0" "Space Propulsion Engineering (PDF)" %}} or {{% resource_link "d4ba6c4e-87a3-46b7-bb55-66caf676e591" "Space Systems Engineering (PDF)" %}} from the {{% resource_link "689e257f-2d17-4261-b71a-7ef223653c30" "Department of Aeronautics and Astronautics" %}}.
 
 ### Offered
 
@@ -62,7 +62,7 @@ Graduate students
 
 ### Breakdown by Major
 
-Aeronautics and Astronautics graduate students in [Space Propulsion (PDF)](http://mit.edu/aeroastro/academics/grad/spacepropulsion.pdf) or [Space Systems Engineering (PDF)](http://mit.edu/aeroastro/academics/grad/spacesystems.pdf) degree programs.
+Aeronautics and Astronautics graduate students in {{% resource_link "09a94acc-ed26-496a-913a-bec9e9c8e3c0" "Space Propulsion (PDF)" %}} or {{% resource_link "d4ba6c4e-87a3-46b7-bb55-66caf676e591" "Space Systems Engineering (PDF)" %}} degree programs.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
